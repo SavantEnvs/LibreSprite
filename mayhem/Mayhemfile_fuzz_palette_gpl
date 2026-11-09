@@ -1,0 +1,9 @@
+project: savantenvs/LibreSprite
+target: fuzz_palette_gpl
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz_palette_gpl/testsuite
+cmds:
+  - cmd: /mayhem/fuzz_palette_gpl
+    libfuzzer: true
+    timeout: 30

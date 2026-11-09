@@ -1,0 +1,16 @@
+mayhem/fuzz_png/testsuite/a16.png 16x16 frames=1 format=0 px0=00000000 px1=ffffffff
+mayhem/fuzz_png/testsuite/ase32.png 32x32 frames=1 format=0 px0=00000000 px1=ff744a46
+mayhem/fuzz_ase/testsuite/a16.ase 16x16 frames=1 format=0 px0=00000000 px1=ffffffff
+mayhem/fuzz_ase/testsuite/splash.ase 320x160 frames=1 format=2 px0=00000014 px1=00000014
+mayhem/fuzz_bmp/testsuite/a16.bmp 16x16 frames=1 format=0 px0=ff000000 px1=ffffffff
+mayhem/fuzz_tga/testsuite/a16.tga 16x16 frames=1 format=0 px0=00000000 px1=ffffffff
+mayhem/fuzz_qoi/testsuite/a16.qoi 16x16 frames=1 format=0 px0=00000000 px1=ffffffff
+mayhem/fuzz_webp/testsuite/a16.webp 16x16 frames=1 format=0 px0=00000000 px1=ffffffff
+mayhem/fuzz_pcx/testsuite/a16.pcx 16x16 frames=1 format=0 px0=ff000000 px1=ffffffff
+mayhem/fuzz_gif/testsuite/a16.gif 16x16 frames=1 format=2 px0=00000000 px1=00000003
+mayhem/fuzz_gif/testsuite/splash.gif 320x160 frames=1 format=2 px0=00000017 px1=00000018
+mayhem/fuzz_jpg/testsuite/a16.jpg 16x16 frames=1 format=0 px0=ff000000 px1=ffd9d9d9
+mayhem/fuzz_ico/testsuite/a16.ico 16x16 frames=1 format=0 px0=00000000 px1=ffffffff
+mayhem/fuzz_ico/testsuite/ase.ico 16x16 frames=1 format=0 px0=00000000 px1=ffffffff
+mayhem/fuzz_fli/testsuite/a16.fli 16x16 frames=1 format=2 px0=00000000 px1=00000003
+mayhem/fuzz_fli/testsuite/splash.fli 320x160 frames=1 format=2 px0=00000017 px1=00000018
