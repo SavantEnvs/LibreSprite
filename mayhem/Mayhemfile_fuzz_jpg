@@ -1,0 +1,9 @@
+project: savantenvs/LibreSprite
+target: fuzz_jpg
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz_jpg/testsuite
+cmds:
+  - cmd: /mayhem/fuzz_jpg
+    libfuzzer: true
+    timeout: 30
